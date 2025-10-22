@@ -154,7 +154,7 @@ optimization,algorithm,size,time,correct
 
 ### 5.5 图片展示
 
-![performance_analysis.png](./share/114514/results/performance_analysis.png)
+![performance_analysis.png](./performance_analysis.png)
 
 ## 六、实验问题与解决方案
 
